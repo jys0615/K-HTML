@@ -37,3 +37,5 @@ npm install -D @types/node
 
 # 필수 패키지 한 번에 설치
 npm install react-router-dom zustand @tanstack/react-query axios react-hook-form @hookform/resolvers zod date-fns lucide-react
+
+### 디렉토리 구조
