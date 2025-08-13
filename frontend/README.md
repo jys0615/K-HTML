@@ -1,7 +1,9 @@
 # frontend
 
-# K-HTML
-2025 K-HTML HACKATHON Repository
+버전, 혹은 OS 문제로 작동이 안되실 수는 있습니다!
+
+# 1. npm으로 Vite 프로젝트 생성(초기에 디렉토리 생성 당시 명령어입니다. 아마 안 하셔도 될 거에요)
+npm create vite@latest . -- --template react-ts
 
 # 설치 순서
 
